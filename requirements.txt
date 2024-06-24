@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+python-telegram-bot
+requests
+aiohttp
+beautifulsoup4
+textrazor
+python-dotenv
+google-generative-ai
