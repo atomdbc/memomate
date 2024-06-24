@@ -27,4 +27,4 @@ Hello! I’m Mary, your friendly journaling assistant. 🌸 I'm here to help you
 
    ```bash
    git clone https://github.com/atomdbc/memomate.git
-   cd your-repo-memomate
+   cd memomate
