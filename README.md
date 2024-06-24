@@ -26,5 +26,5 @@ Hello! I’m Mary, your friendly journaling assistant. 🌸 I'm here to help you
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/atomdbc/memomate.git
+   cd your-repo-memomate
